@@ -1,0 +1,85 @@
+
+UX DESIGN OVERVIEW
+
+*** What Is Design?
+
+Design is a plan for arranging elements in such a way as to best accomplish a particular purpose.
+In the case of UX, elements could be things like text, icons, buttons, images, etc...
+
+What is design?
+* A plan
+* Arranging elements
+* A purpose
+* How it works (functionality)
+* (Also: what it looks like and feels like)
+
+What is design?
+* Design is solving problems.
+
+*** The Design Process
+
+- Understand the problem
+- Generate possible solutions
+- Analyze and select
+- Embody solutions (which means to build to kind of a prototype 
+	that can be used for really understanding how this solution would work
+	and that can also be used for assessing whether or not we're moving along the right track.)
+- Assess (find new problems)
+
+- ... and Repeat
+
+*** What Is Special About UX Design?
+
+- Experiences are interactive
+	_ Time-based
+	_ Action-response rules
+	_ Action: command options
+	_ Response: information presentation
+	_ Complex system behavior (focus on usability)
+- Context is critical
+	_ Other interactions
+	_ Other activities
+	_ Other people
+	
+
+*** Mapping the Design Process onto the UX Design Process
+
+- Understand the problem       -> Study users: tasks and context    
+- Generate possible solutions  -> Sketch, storyboard, wireframe... 
+- Analyze and select		   -> Apply UX criteria
+- Embody solutions			   -> Build prototype
+- Assess (find new problems)   -> Apply UX research methods
+
+- ... and Repeat			   -> ... and Repeat
+
+-----------------------------------------------------------------------------------------------------------------
+
+*** TỔNG QUAN VỀ THIẾT KẾ UX
+
+Khái Niệm Thiết Kế
+
+Thiết kế là một kế hoạch sắp xếp các yếu tố theo một cách nào đó tốt nhất để hoàn thành một mục đích cụ thể.
+Trong thiết kế UX, các yếu tố cần được sắp xếp ở đây có thể là văn bản, biểu tượng, các nút bấm, hình ảnh,…
+
+*** Các Bước Thiết Kế
+
+- Xác định rõ vấn đề
+- Hình dung các giải pháp khả thi để giải quyết vấn đề
+- Phân tích và lựa chọn những giải pháp triển vọng
+- Xây dựng thử nghiệm giải pháp đã lựa chọn
+- Đánh giá và tìm ra những vấn đề đã bị bỏ sót
+
+- ... và Lặp lại các bước trên
+
+
+*** Những điểm đặc biệt trong thiết kế UX
+
+- Trải nghiệm đang xây dựng có tính tương tác: nghĩa là phải dựa trên thời gian chúng xảy ra, 
+	dựa trên các quy tắc phản ứng hành động và dựa trên những gì xảy ra khi người dùng thực hiện, 
+	sau đó phản hồi thông tin
+- Bối cảnh rất quan trọng: hiểu cách thức, khi nào, tại sao người dùng đang sử dụng?
+- Ứng dụng 5 bước của thiết kế đã nêu vào thiết kế UX cho phù hợp
+
+
+
+

@@ -1,0 +1,110 @@
+
+PROTOTYPE
+
+A prototype is a representation of a design, made before the final solution exists.
+
+
+*** Why prototype?
+
+- Reification
+- Relection
+- Communication
+- Assessment
+
+*** Prototypes have many forms
+
+A "representation of a design" can mean a:
+- Verbal description
+- Sketch
+- Storyboard
+- Navigation/flow diagram
+- Physical model
+- Video
+- Formal specification
+
+*** Lo-fi prototypes
+
+Address
+- Functionality
+- Basic organization
+- Task flow and coverage
+
+Ignore
+- Graphics
+- Programming
+- Real data
+
+*** Mid-fi prototypes
+
+Address lo-fi concerns, plus
+- Layout
+- Interactivity
+- Navigation
+
+Ignore
+- Graphics
+- Programming
+- Real data
+
+*** Hi-fi prototypes
+
+Address mid- & lo-fi concerns, plus
+- Graphics
+- Interaction details
+- Realistic data
+
+Ignore
+- Backend programming
+- Complete functional coverage
+
+*** Economic principle of prototyping
+
+The best prototype is the one that, in the simplest and most efficient way, 
+makes the possibilities of a design idea visible and measureable.
+
+*** What happens before prototyping?
+
+- Assess current needs
+- Establish guidelines and constraints
+- Personas, scenarios, user stories, requirements
+
+*** What happens after prototyping?
+
+- Assessment
+- Redesign
+- More prototyping
+
+-----------------------------------------------------------------------------------------------------------------
+
+PROTOTYPE
+
+Prototype là đại diện cho một thiết kế, được thực hiện trước khi quyết định giải pháp cuối cùng.
+
+*** Tại sao phải làm prototype?
+
+- Cụ thể hóa ý tưởng thiết kế
+- Hiện thực hóa ý tưởng
+- Hỗ trợ cho việc giao tiếp, trò chuyện, xem xét với các bên liên quan
+- Là cơ sở để đánh giá
+
+*** Các hình thức có thể của prototype:
+
+- Mô tả bằng lời nói
+- Phác thảo
+- Bảng phân cảnh (storyboarding)
+- Sơ đồ đường dẫn hoặc sơ đồ luồng chức năng
+- Mô hình vật lý
+- Video
+- Tài liệu đặc tả chính thống
+
+*** Trước khi phát triển một prototype, ta cần phải:
+
+- Đánh giá nhu cầu hiện tại và hiểu được vấn đề thiết kế
+- Thiết lập các hướng dẫn và hạn chế
+- Xây dựng các hồ sơ người dùng (user personas), kịch bản người dùng (user scenarios),
+	câu chuyện người dùng (user stories), yêu cầu (requirements)
+	
+*** Sau khi phát triển một prototype, ta cần phải:
+
+- Đánh giá xem có đang đi đúng hướng không
+- Tiến hành quy trình thiết kế tiếp theo và tạo thêm các prototype	
